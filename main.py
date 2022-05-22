@@ -11,6 +11,10 @@ from show_res import show_img_res
 import streamlit as st
 
 
+df1 = pd.read_csv('res1.csv')
+df2 = pd.read_csv('res2.csv')
+df = pd.concat([df1,df2])
+df.to_csv('encode_res.csv',index=False)
 
 # from  load_model import *
 
