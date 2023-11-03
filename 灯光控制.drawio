@@ -1,9 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T08:50:17.603Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="21.7.5" etag="ytQYOPTneE_G9EoNXEZD" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T09:00:03.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="1xN5HyDU5uvVl-sM25B-" version="21.7.5" type="github">
   <diagram name="第 1 页" id="9Tu7uDkyitYJb0Dc1964">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fYzJlYy6E2Ldf7bV-5xR-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fYzJlYy6E2Ldf7bV-5xR-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fYzJlYy6E2Ldf7bV-5xR-2" value="灯光控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYzJlYy6E2Ldf7bV-5xR-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="70" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fYzJlYy6E2Ldf7bV-5xR-5" value="提示指令" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="657" y="150" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fYzJlYy6E2Ldf7bV-5xR-6" value="显示：我叫小卓，是你的 LinkWall 智能助手，很高兴遇见你，我的使命是协助你更好的使用 LinkWall，有什么需要就喊我吧。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="60" width="267" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fYzJlYy6E2Ldf7bV-5xR-7" value="播报：我叫小卓，是你的 LinkWall 智能助手，很高兴遇见你，我的使命是协助你更好的使用 LinkWall，有什么需要就喊我吧。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="110" width="267" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fYzJlYy6E2Ldf7bV-5xR-9" value="Actions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYzJlYy6E2Ldf7bV-5xR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fYzJlYy6E2Ldf7bV-5xR-10" target="fYzJlYy6E2Ldf7bV-5xR-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYzJlYy6E2Ldf7bV-5xR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fYzJlYy6E2Ldf7bV-5xR-10" target="fYzJlYy6E2Ldf7bV-5xR-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYzJlYy6E2Ldf7bV-5xR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fYzJlYy6E2Ldf7bV-5xR-10" target="fYzJlYy6E2Ldf7bV-5xR-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYzJlYy6E2Ldf7bV-5xR-10" value="具体控制" style="rhombus;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="180" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fYzJlYy6E2Ldf7bV-5xR-12" value="缺槽" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYzJlYy6E2Ldf7bV-5xR-15" value="开" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYzJlYy6E2Ldf7bV-5xR-17" value="关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
